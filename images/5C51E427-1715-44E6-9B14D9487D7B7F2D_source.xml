@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>5C51E427-1715-44E6-9B14D9487D7B7F2D_source.jpg</filename>
+	<path>/Users/akilesh/Documents/personal/projects/tiger-detector/images/5C51E427-1715-44E6-9B14D9487D7B7F2D_source.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1536</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tiger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>159</xmin>
+			<ymin>32</ymin>
+			<xmax>1506</xmax>
+			<ymax>1004</ymax>
+		</bndbox>
+	</object>
+</annotation>

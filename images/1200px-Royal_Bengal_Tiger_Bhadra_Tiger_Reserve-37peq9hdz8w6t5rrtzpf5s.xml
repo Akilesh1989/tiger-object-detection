@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>1200px-Royal_Bengal_Tiger_Bhadra_Tiger_Reserve-37peq9hdz8w6t5rrtzpf5s.jpg</filename>
+	<path>/Users/akilesh/Documents/personal/projects/tiger-detector/images/1200px-Royal_Bengal_Tiger_Bhadra_Tiger_Reserve-37peq9hdz8w6t5rrtzpf5s.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1170</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tiger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>38</ymin>
+			<xmax>794</xmax>
+			<ymax>549</ymax>
+		</bndbox>
+	</object>
+</annotation>

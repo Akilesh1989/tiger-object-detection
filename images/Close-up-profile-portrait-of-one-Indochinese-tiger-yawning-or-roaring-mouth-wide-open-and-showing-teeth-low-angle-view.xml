@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Close-up-profile-portrait-of-one-Indochinese-tiger-yawning-or-roaring-mouth-wide-open-and-showing-teeth-low-angle-view.jpg</filename>
+	<path>/Users/akilesh/Documents/personal/projects/tiger-detector/images/Close-up-profile-portrait-of-one-Indochinese-tiger-yawning-or-roaring-mouth-wide-open-and-showing-teeth-low-angle-view.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4096</width>
+		<height>2731</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tiger</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>755</xmin>
+			<ymin>402</ymin>
+			<xmax>4084</xmax>
+			<ymax>2731</ymax>
+		</bndbox>
+	</object>
+</annotation>

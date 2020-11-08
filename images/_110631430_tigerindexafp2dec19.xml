@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>_110631430_tigerindexafp2dec19.jpg</filename>
+	<path>/Users/akilesh/Documents/personal/projects/tiger-detector/images/_110631430_tigerindexafp2dec19.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tiger</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>1</ymin>
+			<xmax>952</xmax>
+			<ymax>576</ymax>
+		</bndbox>
+	</object>
+</annotation>

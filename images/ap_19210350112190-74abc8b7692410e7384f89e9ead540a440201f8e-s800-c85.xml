@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>ap_19210350112190-74abc8b7692410e7384f89e9ead540a440201f8e-s800-c85.jpg</filename>
+	<path>/Users/akilesh/Documents/personal/projects/tiger-detector/images/ap_19210350112190-74abc8b7692410e7384f89e9ead540a440201f8e-s800-c85.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>599</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tiger</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>2</ymin>
+			<xmax>797</xmax>
+			<ymax>599</ymax>
+		</bndbox>
+	</object>
+</annotation>
